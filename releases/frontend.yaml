@@ -16,4 +16,4 @@ spec:
       tag: 0.2.2
     service:
       type: NodePort
-      nodePort: 31198
+      nodePort: 31199
